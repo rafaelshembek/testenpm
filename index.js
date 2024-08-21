@@ -19,7 +19,7 @@ const people = [
         abilidades: ['FrontEnd', 'React Native', 'ReactJs', 'Nodejs', 'Javascript']
     },
     { id: 2, name: 'Angela Vazquez' },
-    { id: 3, name: 'Laila Severo' },
+    { id: 3, name: 'Rodrigo Silva' },
     { id: 4, name: 'Bruna Silva' }
 ]
 
